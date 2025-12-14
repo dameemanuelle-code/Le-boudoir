@@ -162,7 +162,7 @@ img{ max-width:100%; display:block; }
   position:absolute; inset:0;
   background:
     linear-gradient(90deg, rgba(15,7,10,.92), rgba(15,7,10,.55)),
-    url("images/boudoir-3.jpg") center/cover no-repeat;
+    url("images/boudoir-3.jpeg") center/cover no-repeat;
   filter: saturate(1.05) contrast(1.05);
   transform: scale(1.02);
 }
